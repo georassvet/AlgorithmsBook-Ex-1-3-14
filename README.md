@@ -7,6 +7,7 @@ and then extend your implementation to use array resizing to remove the size res
 
 API
 ---
+class ResizingArrayQueueOfString
 void push(String string);<br/>
 String pop();<br/>
 boolean isEmpty();
